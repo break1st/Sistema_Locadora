@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Arquivos de Cabeçalho"
+                   projectFiles="true">
+      <itemPath>categoria.h</itemPath>
+      <itemPath>cliente.h</itemPath>
+      <itemPath>filme.h</itemPath>
+      <itemPath>fornecedor.h</itemPath>
+      <itemPath>funcGlobais.h</itemPath>
+      <itemPath>funcionario.h</itemPath>
+      <itemPath>locadora.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Arquivos de Código-Fonte"
+                   projectFiles="true">
+      <itemPath>categoria.c</itemPath>
+      <itemPath>cliente.c</itemPath>
+      <itemPath>filme.c</itemPath>
+      <itemPath>fornecedor.c</itemPath>
+      <itemPath>funcGlobais.c</itemPath>
+      <itemPath>funcionario.c</itemPath>
+      <itemPath>locadora.c</itemPath>
+      <itemPath>main.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Arquivos de Recurso"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Arquivos de Teste"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Arquivos Importantes"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <standard>10</standard>
+        </cTool>
+      </compileType>
+      <item path="categoria.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="categoria.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="cliente.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cliente.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="filme.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="filme.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="fornecedor.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="fornecedor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="funcGlobais.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="funcGlobais.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="funcionario.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="funcionario.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="locadora.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="locadora.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+          <standard>10</standard>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="categoria.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="categoria.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="cliente.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cliente.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="filme.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="filme.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="fornecedor.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="fornecedor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="funcGlobais.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="funcGlobais.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="funcionario.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="funcionario.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="locadora.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="locadora.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

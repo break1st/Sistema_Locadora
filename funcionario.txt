@@ -1,0 +1,18 @@
+1
+Fulano da Silva
+Vendedor
+Rua Benedito Soares n 123 bairro Centro
+37 40028922
+fulanodasilva@yahoo.com
+2
+Ciclano Deltrano
+Auxiliar administrativo
+Avenida Abilio Machado n 111 Sagrado Coracao de Jesus
+37 33220000
+clicladodeltrano@gmail.com
+3
+Joaozinho da Silva
+Repositor
+Rua do IF s/n bairro Sao Luiz
+3799998888
+joaozinhodasilva@outlook.com

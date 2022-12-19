@@ -1,0 +1,27 @@
+1
+Joao
+Rua Goias, bairro Bahia n 89
+18495961075
+37 33223333
+joao123@gmail.com
+Masculino
+Solteiro
+21/03/2000
+2
+Maria Joaquina
+Rua Sao Paulo, bairro Sagrado coracao de Jesus n 57
+32369491043
+37 12345678
+mariaj@gmail.com
+Feminino
+Casada
+19/01/1992
+3
+Fulano de Tal
+Rua 4, bairro Numeros n 9
+95856024079
+37 11112222
+fulanodetal@yahoo.com
+Masculino
+Solteiro
+20/08/2001

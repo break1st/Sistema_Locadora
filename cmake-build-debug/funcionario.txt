@@ -1,0 +1,18 @@
+1
+Ciclano da Silva
+Atendente
+Rua Alguma coisa, bairro Sei la n 578
+37 12345678
+ciclanosilva@outlook.com.br
+2
+Juninho Jr
+Gerente
+Rua de tras, bairro da frente n 8
+37 33333333
+juninhojr@hotmail.com
+3
+Fulano Deltrano
+Auxiliar administrativo
+Rua do IFMG, bairro Sao Luiz n 7887
+37 33330000
+fulanodeltrano@gmail.com

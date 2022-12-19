@@ -1,0 +1,34 @@
+<dados>
+	<filme>
+		<registro>
+			<codigo>1</codigo>
+			<descricao>invocacao do mal</descricao>
+			<valor>5.00</valor>
+			<ex>20</ex>
+			<categoria>1</categoria>
+			<lingua>dublado</lingua>
+			<exLocados>0</exLocados>
+			<pendente>1</pendente>
+		</registro>
+		<registro>
+			<codigo>2</codigo>
+			<descricao>2</descricao>
+			<valor>6.00</valor>
+			<ex>2</ex>
+			<categoria>2</categoria>
+			<lingua>dublado</lingua>
+			<exLocados>0</exLocados>
+			<pendente>1</pendente>
+		</registro>
+		<registro>
+			<codigo>3</codigo>
+			<descricao>3</descricao>
+			<valor>6.55</valor>
+			<ex>3</ex>
+			<categoria>3</categoria>
+			<lingua>legendado</lingua>
+			<exLocados>0</exLocados>
+			<pendente>1</pendente>
+		</registro>
+	</filme>
+</dados>

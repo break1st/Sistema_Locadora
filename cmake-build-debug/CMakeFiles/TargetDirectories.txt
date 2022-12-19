@@ -1,0 +1,3 @@
+C:/Users/Breno/Desktop/Projeto23-11/cmake-build-debug/CMakeFiles/Projeto_Locadora.dir
+C:/Users/Breno/Desktop/Projeto23-11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Breno/Desktop/Projeto23-11/cmake-build-debug/CMakeFiles/rebuild_cache.dir

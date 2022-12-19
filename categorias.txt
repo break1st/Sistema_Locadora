@@ -1,0 +1,12 @@
+1
+Filmes de terror
+10.90
+1
+2
+Filmes de comedia
+11.00
+1
+3
+Filmes de aventura
+10.55
+1

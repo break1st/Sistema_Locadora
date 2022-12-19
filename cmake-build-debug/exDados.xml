@@ -1,0 +1,212 @@
+<dados>
+	<filme>
+		<registro>
+			<codigo>1</codigo>
+			<descricao>Carros</descricao>
+			<valor>5.70</valor>
+			<ex>50</ex>
+			<IDcategoria>7</IDcategoria>
+			<lingua>Dublado</lingua>
+			<exLocados>0</exLocados>
+			<pendente>1</pendente>
+		</registro>
+		<registro>
+			<codigo>2</codigo>
+			<descricao>Percy Jackson</descricao>
+			<valor>5.40</valor>
+			<ex>50</ex>
+			<IDcategoria>4</IDcategoria>
+			<lingua>Dublado</lingua>
+			<exLocados>0</exLocados>
+			<pendente>1</pendente>
+		</registro>
+		<registro>
+			<codigo>3</codigo>
+			<descricao>Velozes e furiosos</descricao>
+			<valor>5.30</valor>
+			<ex>50</ex>
+			<IDcategoria>3</IDcategoria>
+			<lingua>Dublado</lingua>
+			<exLocados>0</exLocados>
+			<pendente>1</pendente>
+		</registro>
+		<registro>
+			<codigo>4</codigo>
+			<descricao>Se beber nao case</descricao>
+			<valor>5.10</valor>
+			<ex>50</ex>
+			<IDcategoria>2</IDcategoria>
+			<lingua>Legendado</lingua>
+			<exLocados>0</exLocados>
+			<pendente>1</pendente>
+		</registro>
+		<registro>
+			<codigo>5</codigo>
+			<descricao>Click</descricao>
+			<valor>5.10</valor>
+			<ex>50</ex>
+			<IDcategoria>2</IDcategoria>
+			<lingua>Dublado</lingua>
+			<exLocados>0</exLocados>
+			<pendente>1</pendente>
+		</registro>
+	</filme>
+	<cliente>
+		<registro>
+			<codigo>1</codigo>
+			<nome>Ciclano Ciclano</nome>
+			<endereco>Rua Peru bairro America n 77</endereco>
+			<cpf>10621542075</cpf>
+			<telefone>33444433</telefone>
+			<email>ciclano@hotmail.com</email>
+			<sexo>Masculino</sexo>
+			<estCivil>Solteiro</estCivil>
+			<dataNascimento>10/10/2000</dataNascimento>
+		</registro>
+		<registro>
+			<codigo>2</codigo>
+			<nome>Maria Maria</nome>
+			<endereco>Rua Abilio Machado, bairro Alvorada n 46</endereco>
+			<cpf>50552118060</cpf>
+			<telefone>11 11223344</telefone>
+			<email>mariamaria@gmail.com</email>
+			<sexo>Feminino</sexo>
+			<estCivil>Solteira</estCivil>
+			<dataNascimento>25/03/2002</dataNascimento>
+		</registro>
+		<registro>
+			<codigo>3</codigo>
+			<nome>Flor</nome>
+			<endereco>Rua Amazonas bairro Ouro Negro n 470</endereco>
+			<cpf>52125749009</cpf>
+			<telefone>11 11223322</telefone>
+			<email>flor@outlook.com</email>
+			<sexo>Feminino</sexo>
+			<estCivil>Casada</estCivil>
+			<dataNascimento>14/05/1995</dataNascimento>
+		</registro>
+	</cliente>
+	<categoria>
+		<registro>
+			<codigo>1</codigo>
+			<descricao>Filme de terror</descricao>
+			<valor>5.00</valor>
+			<ativo>1</ativo>
+		</registro>
+		<registro>
+			<codigo>2</codigo>
+			<descricao>Filme de comedia</descricao>
+			<valor>5.10</valor>
+			<ativo>1</ativo>
+		</registro>
+		<registro>
+			<codigo>3</codigo>
+			<descricao>Filme de acao</descricao>
+			<valor>5.30</valor>
+			<ativo>1</ativo>
+		</registro>
+		<registro>
+			<codigo>4</codigo>
+			<descricao>Filme de aventura</descricao>
+			<valor>5.40</valor>
+			<ativo>1</ativo>
+		</registro>
+		<registro>
+			<codigo>5</codigo>
+			<descricao>Filme de ficcao cientifica</descricao>
+			<valor>5.50</valor>
+			<ativo>1</ativo>
+		</registro>
+		<registro>
+			<codigo>6</codigo>
+			<descricao>Filme de romance</descricao>
+			<valor>5.60</valor>
+			<ativo>1</ativo>
+		</registro>
+		<registro>
+			<codigo>7</codigo>
+			<descricao>Filme infantil</descricao>
+			<valor>5.70</valor>
+			<ativo>1</ativo>
+		</registro>
+	</categoria>
+	<fornecedor>
+		<registro>
+			<codigo>1</codigo>
+			<nomeFantasia>VENDE FILMES MAIS</nomeFantasia>
+			<razaoSocial>vende filmes mais ltda</razaoSocial>
+			<inscricao>111111</inscricao>
+			<cnpj>26489054000156</cnpj>
+			<endereco>Rua do IFMG bairro do IFMG n do IFMG</endereco>
+			<telefone>33223322</telefone>
+			<email>vendefilmesmais@gmail.com</email>
+		</registro>
+		<registro>
+			<codigo>2</codigo>
+			<nomeFantasia>Mundo Filmes</nomeFantasia>
+			<razaoSocial>Mundo filmes ltda</razaoSocial>
+			<inscricao>111111</inscricao>
+			<cnpj>50930674000163</cnpj>
+			<endereco>Av Abilio Machado bairro Sagrado Coracao de Jesus n7</endereco>
+			<telefone>11 22334455</telefone>
+			<email>mundofilmes@gmail.com</email>
+		</registro>
+	</fornecedor>
+	<funcionario>
+		<registro>
+			<codigo>1</codigo>
+			<nome>Funcionario Um</nome>
+			<cargo>Auxiliar administrativo</cargo>
+			<endereco>Rua Televisao, bairro moveis n 54</endereco>
+			<telefone>33333333</telefone>
+			<email>funcionarioum@gmail.com</email>
+		</registro>
+		<registro>
+			<codigo>2</codigo>
+			<nome>Junior Baiano</nome>
+			<cargo>Repositot</cargo>
+			<endereco>Rua Livros</endereco>
+			<telefone>3333 3333</telefone>
+			<email>jrbaiano@hotmail.com</email>
+		</registro>
+		<registro>
+			<codigo>3</codigo>
+			<nome>Maria Joaquina</nome>
+			<cargo>Caixa</cargo>
+			<endereco>Rua 7 bairro Centro n 78</endereco>
+			<telefone>3333 2222</telefone>
+			<email>mariajoaquina@yahoo.com</email>
+		</registro>
+	</funcionario>
+	<locadora>
+		<registro>
+			<nomeFantasia>A Outra Locadora</nomeFantasia>
+			<razaoSocial>a outra locadora ltda</razaoSocial>
+			<inscricao>111111</inscricao>
+			<cnpj>43340951000112</cnpj>
+			<endereco>Rua do IFMG, bairro do IF n 45</endereco>
+			<telefone>33333333</telefone>
+			<email>outralocadora@gmail.com</email>
+			<nomeResponsavel>Breno Alves</nomeResponsavel>
+			<telResponsavel>33333333</telResponsavel>
+			<multa>2.75</multa>
+			<caixa>1532.00</caixa>
+			<areceber>0.00</areceber>
+			<despesa>0.00</despesa>
+		</registro>
+	</locadora>
+	<movimentacao>
+		<registro>
+			<valorAntes>0.000000</valorAntes>
+			<valorDepois>0.000000</valorDepois>
+			<operacao>0.000000</operacao>
+			<dataOp>8/12/2022</dataOp>
+		</registro>
+		<registro>
+			<valorAntes>0.000000</valorAntes>
+			<valorDepois>1532.000000</valorDepois>
+			<operacao>1532.000000</operacao>
+			<dataOp>8/12/2022</dataOp>
+		</registro>
+	</movimentacao>
+</dados>
